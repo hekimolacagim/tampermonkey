@@ -4,8 +4,8 @@
 // @version      2026-11-15
 // @description  try to take over the world!
 // @author       You
-// @updateURL    https://raw.githubusercontent.com/hekimolacagim/tampermonkey/yesilay.user.js
-// @downloadURL  https://raw.githubusercontent.com/hekimolacagim/tampermonkey/yesilay.user.js
+// @updateURL    https://github.com/hekimolacagim/tampermonkey/raw/refs/heads/main/yesilay.user.js
+// @downloadURL  https://github.com/hekimolacagim/tampermonkey/raw/refs/heads/main/yesilay.user.js
 // @match        https://www.yesilay.org.tr/bagimlilik/dijital-bagimliliklar/?rf=*
 // @match        *://facebook.com/*
 // @match        *://*.facebook.com/*
