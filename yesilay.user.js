@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Yeşilay'a Sözüm
 // @namespace    http://tampermonkey.net/
-// @version      3.0
+// @version      4.0
 // @description  try to take over the world!
 // @author       You
-// @updateURL    https://github.com/hekimolacagim/tampermonkey/raw/refs/heads/main/yesilay.user.js
-// @downloadURL  https://github.com/hekimolacagim/tampermonkey/raw/refs/heads/main/yesilay.user.js
+// @updateURL    https://raw.githack.com/hekimolacagim/tampermonkey/main/yesilay.user.js
+// @downloadURL  https://raw.githack.com/hekimolacagim/tampermonkey/main/yesilay.user.js
 // @match        https://www.yesilay.org.tr/bagimlilik/dijital-bagimliliklar/?rf=*
 // @match        *://facebook.com/*
 // @match        *://*.facebook.com/*
