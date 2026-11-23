@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Yeşilay'a Sözüm
 // @namespace    http://tampermonkey.net/
-// @version      Alpha-v1
+// @version      2.0
 // @description  try to take over the world!
 // @author       You
 // @updateURL    https://github.com/hekimolacagim/tampermonkey/raw/refs/heads/main/yesilay.user.js
